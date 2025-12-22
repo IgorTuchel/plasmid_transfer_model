@@ -1,7 +1,7 @@
 import numpy as np
 
 base_params = {
-    'K': 1000,       # increase carrying capacity for smoother stochastic behavior
+    'K': 1000,       # carrying capacity
     'r': 1.0,        # baseline growth rate
     'mu': 0.1,       # baseline mortality
     'c': 0.05,       # plasmid cost
